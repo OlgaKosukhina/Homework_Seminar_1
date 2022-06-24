@@ -1,0 +1,15 @@
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/bin/Debug/net6.0/Zadacha_2
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/bin/Debug/net6.0/Zadacha_2.deps.json
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/bin/Debug/net6.0/Zadacha_2.runtimeconfig.json
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/bin/Debug/net6.0/Zadacha_2.dll
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/bin/Debug/net6.0/Zadacha_2.pdb
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/obj/Debug/net6.0/Zadacha_2.csproj.AssemblyReference.cache
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/obj/Debug/net6.0/Zadacha_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/obj/Debug/net6.0/Zadacha_2.AssemblyInfoInputs.cache
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/obj/Debug/net6.0/Zadacha_2.AssemblyInfo.cs
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/obj/Debug/net6.0/Zadacha_2.csproj.CoreCompileInputs.cache
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/obj/Debug/net6.0/Zadacha_2.dll
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/obj/Debug/net6.0/refint/Zadacha_2.dll
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/obj/Debug/net6.0/Zadacha_2.pdb
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/obj/Debug/net6.0/Zadacha_2.genruntimeconfig.cache
+/Users/olgakosuhina/Desktop/homework/Zadacha_2/obj/Debug/net6.0/ref/Zadacha_2.dll
